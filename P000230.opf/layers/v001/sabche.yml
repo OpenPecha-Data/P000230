@@ -1,0 +1,168 @@
+id: 3f45a82620234e3ebb34d864598cef64
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: d8256472490540a08d049dccda827827
+  span:
+    start: 84460
+    end: 84522
+- id: 5376252537c441d49e6afcfb21739cd2
+  span:
+    start: 84878
+    end: 84907
+- id: ad3daf85307343e496de899fa20b9628
+  span:
+    start: 85053
+    end: 85078
+- id: ab23eacebb214d6ea55ecbc31d4c9f99
+  span:
+    start: 85266
+    end: 85291
+- id: fe2fc20b1eb34aa7a306af040270c7de
+  span:
+    start: 115717
+    end: 115736
+- id: 896f0618f84e4d0cbb7abe3365e371f2
+  span:
+    start: 117007
+    end: 117023
+- id: d48a36db38f248d9a3fb48e4409f4acc
+  span:
+    start: 140341
+    end: 140378
+- id: b241d78e747d4ff2ac3ede0d3bba032e
+  span:
+    start: 157380
+    end: 157412
+- id: d9c3b0b7ef0740219bf3127dc25099d4
+  span:
+    start: 158531
+    end: 158558
+- id: b7ec29f544cd41c784901c3681a5bcfe
+  span:
+    start: 159360
+    end: 159385
+- id: 50ed8ac94cad41cb9f88e1c4191d1254
+  span:
+    start: 172744
+    end: 172830
+- id: 29f81bc4f2b445c698f4c9740d8157e1
+  span:
+    start: 191817
+    end: 192058
+- id: 4c2b3c248f5e46048703292ce43cb436
+  span:
+    start: 192398
+    end: 192438
+- id: eb6f539f7d3544389e7b8b8f40cd0f05
+  span:
+    start: 192498
+    end: 192592
+- id: 521a1ae31741415b81e83906c9a8baaa
+  span:
+    start: 193129
+    end: 193168
+- id: 9a245d3e87d64017ac2b567dc0265329
+  span:
+    start: 193272
+    end: 193418
+- id: e409c832a4f143fbbf9066283e8d0074
+  span:
+    start: 193811
+    end: 193866
+- id: c40560521dfa4368a57ab0ebde05ce33
+  span:
+    start: 194300
+    end: 194359
+- id: 08e06c285f42446495dddfabb5d251fb
+  span:
+    start: 194953
+    end: 195047
+- id: ad41e02b2e5943efa068463c9d0fe701
+  span:
+    start: 195210
+    end: 195253
+- id: fadd35cf872c4379a83ba3593f167184
+  span:
+    start: 195595
+    end: 195692
+- id: c21dde6eb20643969e3cda66f4bd58d9
+  span:
+    start: 203271
+    end: 203306
+- id: 92937b97064b4ebdacaac9f427558c4f
+  span:
+    start: 203825
+    end: 203844
+- id: 6f1436b6b01b414b88231068eb03430b
+  span:
+    start: 204396
+    end: 204420
+- id: 786094c0a2c74d7e8163ee8cf0a24adc
+  span:
+    start: 205015
+    end: 205059
+- id: b4f1ebf0433d425ba38a7e70e2cb01d0
+  span:
+    start: 205491
+    end: 205511
+- id: 1e1d1942fd8944e4a3a92abdef41dce0
+  span:
+    start: 210783
+    end: 210911
+- id: f3a09626ab7c463891a7ba8945a246e9
+  span:
+    start: 211141
+    end: 211251
+- id: d6d040047651415ab45d3c7e14620e82
+  span:
+    start: 211926
+    end: 211956
+- id: 7394486f38ec450c8d54877bbbbd6f48
+  span:
+    start: 216991
+    end: 217156
+- id: e1c728cfdc144e5cbd98c0975373ec71
+  span:
+    start: 217510
+    end: 217536
+- id: b6ffe4bcaa8546c88ed6bf02865cbe1c
+  span:
+    start: 217643
+    end: 217669
+- id: ed8232365cc0467aaaec44d13f453cc2
+  span:
+    start: 217888
+    end: 217915
+- id: e56d586dc3304922b2267c82d44db6d0
+  span:
+    start: 233024
+    end: 233083
+- id: 69ccbc5ee91c48538f1772797040e125
+  span:
+    start: 233297
+    end: 233326
+- id: a407204c709a4c5ea9a1c038279c77c2
+  span:
+    start: 234191
+    end: 234225
+- id: 8697f869e5fb403ca1fc6cc5d253d111
+  span:
+    start: 234995
+    end: 235025
+- id: d88df8c888924f00ba0dd2b86f46840e
+  span:
+    start: 235190
+    end: 235248
+- id: 97e2e233aab248b48f655e63563651d2
+  span:
+    start: 235333
+    end: 235361
+- id: 716bccca8cd047819cbac4a10572733e
+  span:
+    start: 235543
+    end: 235579
+- id: 393a4b20ed4c4eddbeceac68b7579cdb
+  span:
+    start: 250028
+    end: 250066

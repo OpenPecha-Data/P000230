@@ -1,0 +1,42 @@
+ebook_metadata:
+  title: ༄༅། །བླ་མེད་ནང་རྒྱུད་སྡེ་གསུམ་གྱི་རྒྱབ་ཆོས་པདྨའི་ཞལ་གདམས་ལམ་རིམ་ཡེ་སྙིང་འགྲེལ་པ་ཡེ་ཤེས་སྣང་བའི་ཟུར་རྒྱན་བརྒྱུད་ལྡན་བླ་མའི་ཞལ་རྒྱུན་རྣམས་བརྗེད་བྱང་གཅིག་བསྡུས་ཡེ་ཤེས་ལམ་འཇུག་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། པདྨ་འཕྲིན་ལས་སྙིང་པོ།
+  sku: KN-LYN-03
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Entering the Path of Wisdom:A Collection of Notes on Oral Teachings of Experienced
+      Lamas as a Supplement to “The Light of Wisdom:A Commentary on Lamrim Yeshe Nyingpo,
+      Gradual Path of the Wisdom Essence”
+    bo: བླ་མེད་ནང་རྒྱུད་སྡེ་གསུམ་གྱི་རྒྱབ་ཆོས་པདྨའི་ཞལ་གདམས་ལམ་རིམ་ཡེ་སྙིང་འགྲེལ་པ་ཡེ་ཤེས་སྣང་བའི་ཟུར་རྒྱན་བརྒྱུད་ལྡན་བླ་མའི་ཞལ་རྒྱུན་རྣམས་བརྗེད་བྱང་གཅིག་བསྡུས་ཡེ་ཤེས་ལམ་འཇུག་བཞུགས་སོ།།
+  collection:
+    en: Lamrim Yeshe Nyingpo–  Book 3
+    bo: ''
+  author:
+    en: Pema Thinley Nyingpo
+    bo: ''
+  pusblisher:
+    en: Ka-Nying Shedrub Publications
+    bo: ''
+  sku: KN-LYN-03
+  category:
+    en: Stages of the Path
+    bo: ལམ་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KN-LYN-03.epub
+  description:
+    en: ''
+    bo: ''
