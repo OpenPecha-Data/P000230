@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000230
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བླ་མེད་ནང་རྒྱུད་སྡེ་གསུམ་གྱི་རྒྱབ་ཆོས་པདྨའི་ཞལ་གདམས་ལམ་རིམ་ཡེ་སྙིང་འགྲེལ་པ་ཡེ་ཤེས་སྣང་བའི་ཟུར་རྒྱན་བརྒྱུད་ལྡན་བླ་མའི་ཞལ་རྒྱུན་རྣམས་བརྗེད་བྱང་གཅིག་བསྡུས་ཡེ་ཤེས་ལམ་འཇུག་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། པདྨ་འཕྲིན་ལས་སྙིང་པོ།
-  sku: KN-LYN-03
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: KN-LYN-03
 web_metadata:
   title:
     en: Entering the Path of Wisdom:A Collection of Notes on Oral Teachings of Experienced
